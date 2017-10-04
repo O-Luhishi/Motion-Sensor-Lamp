@@ -1,5 +1,5 @@
 # Motion-Sensor-Lamp
-Written by By Oluhishi [http://zonosnetworks.com/]
+Written by By Oluhishi [http://zonosnetworks.com]
 
 ## Overview
 
@@ -13,7 +13,7 @@ A simple lamp to be able to flicker on after someone or something had gone past 
 5) Some sort of enclosure to keep it in
 
 
-## Connections
+## Usage
 
 The default of this program is set to pin 4 and pin 8 on the Arduino Uno. However to change this, set ``` irmotionPin ``` & ``` relayPin ``` to the pins connected for the PIR Sensor and Relay Module respectively.
 
